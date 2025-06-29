@@ -156,14 +156,3 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 **Ahmed AL-ASADI**
 BTS Cloud Computing & Cyber Security – Luxembourg Talent Exhibition 2025
 
-
-✅ **What to do now:**  
-- Replace `YOUR_YOUTUBE_LINK` with your real video link.  
-- Save this as `README.md` in your project folder.  
-- Add, commit, and push it with:
-  ```bash
-  git add README.md
-  git commit -m "Add complete README"
-  git push
-````
-
