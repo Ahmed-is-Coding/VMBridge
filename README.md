@@ -127,12 +127,6 @@ Watch my full Talent Exhibition video demo here:
 ➡️ [VM Bridge – Full Demo](https://youtu.be/Z9bfUtOjHhk)
 
 
-## 📂 Project Management
-
-I planned, tracked, and completed this project step by step using **ClickUp** to manage every task and deadline.
-The `ClickUp_VMBridge_Project.csv` is included for reference.
-
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
