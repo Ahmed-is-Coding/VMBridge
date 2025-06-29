@@ -137,7 +137,7 @@ When you click **Send VM Info**, the tool:
 ## 📽️ Demo Video
 
 Watch my full Talent Exhibition video demo here:
-➡️ [VM Bridge – Full Demo](YOUR_YOUTUBE_LINK)
+➡️ [VM Bridge – Full Demo](https://youtu.be/Z9bfUtOjHhk)
 
 
 ## 📂 Project Management
