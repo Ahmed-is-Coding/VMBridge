@@ -9,7 +9,7 @@ import sys
 import os
 
 # --- Proxmox Config ---
-PROXMOX_HOST = "10.0.10.11"  # IP of the Proxmox server
+PROXMOX_HOST = "0.0.0.0"  # IP of the Proxmox server
 PROXMOX_USER = "root@pam"  # Username to access Proxmox
 PROXMOX_PASSWORD = "test..123"  # Password for Proxmox user
 

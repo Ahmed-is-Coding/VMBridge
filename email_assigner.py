@@ -6,7 +6,7 @@ from proxmoxer import ProxmoxAPI
 import threading
 
 # --- Proxmox Config ---
-PROXMOX_HOST = "10.0.10.11"
+PROXMOX_HOST = "0.0.0.0"
 PROXMOX_USER = "root@pam"
 PROXMOX_PASSWORD = "test..123"
 VERIFY_SSL = False
@@ -20,12 +20,12 @@ TEMPLATES = {
 }
 students = [
     {"name": "Ahmed AL-ASADI", "class": "BTS-1", "email": "al-ah960@school.lu"},
-    {"name": "Aristide Katagaruka", "class": "BTS-1", "email": "KatAr711@school.lu"},
-    {"name": "David Durães Valadares", "class": "BTS-2", "email": "DurDa593@school.lu"},
-    {"name": "Matéo Fernandes", "class": "BTS-2", "email": "FerMa733@school.lu"},
+    {"name": "jun", "class": "BTS-1", "email": "jun@school.lu"},
+    {"name": "David ", "class": "BTS-2", "email": "david@school.lu"},
+    {"name": "Matéo", "class": "BTS-2", "email": "mateo@school.lu"},
 ]
-SENDER_EMAIL = "ahmaadalasadi@gmail.com"
-SENDER_APP_PASSWORD = "lsxd urot umhz rfpv"
+SENDER_EMAIL = "example@example.com"
+SENDER_APP_PASSWORD = "ABCD"
 
 root = tk.Tk()
 root.title("VM Email Assignment Tool")
