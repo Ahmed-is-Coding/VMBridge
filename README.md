@@ -1,25 +1,15 @@
-Absolutely, Ahmed — here’s your **updated full `README.md`**, **complete**, clean, and with the **PyInstaller `.exe` instructions** added at the end.
-Just copy this **as is** and adjust **YOUR\_YOUTUBE\_LINK** before you push it to GitHub.
-
----
-
-## ✅ **Full `README.md` for VM Bridge**
 
 ````markdown
 # VM Bridge – Proxmox Classroom Manager
 
 **Author:** Ahmed AL-ASADI  
-**Project:** Talent Exhibition 2025 – BTS Cloud Computing & Cyber Security
-
----
+**Project:** Talent Exhibition 2025 – BTS Cloud Computing
 
 ## 📚 Overview
 
 **VM Bridge** is a custom-built Python tool designed to help teachers easily deploy, manage, and share virtual machines for students in a classroom environment using **Proxmox VE**.
 
 I created this project from my own real experience — when I started my IT studies, my teachers asked us to buy powerful PCs for running multiple virtual machines. Many students, including myself, couldn’t afford expensive hardware. **VM Bridge** solves this problem by letting the teacher handle everything on the Proxmox server and distribute ready-to-use VMs to students with just a few clicks.
-
----
 
 ## ✅ Main Features
 
@@ -30,7 +20,6 @@ I created this project from my own real experience — when I started my IT stud
 - **Modern GUI:** User-friendly interface built with Tkinter, with filters, search bar, styled buttons, and a live results log.
 - **Project managed:** Planned and tracked in ClickUp step by step to ensure clear task flow.
 
----
 
 ## 🧰 Tech Stack
 
@@ -43,7 +32,6 @@ I created this project from my own real experience — when I started my IT stud
 - **ClickUp** for project management
 - **VS Code** for development
 
----
 
 ## ⚙️ Requirements
 
@@ -59,7 +47,6 @@ I created this project from my own real experience — when I started my IT stud
 ```bash
 pip install proxmoxer
 ```
-
 
 ## 🚀 How to Run
 
@@ -154,5 +141,5 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ## 🙌 Author
 
 **Ahmed AL-ASADI**
-BTS Cloud Computing & Cyber Security – Luxembourg Talent Exhibition 2025
+BTS Cloud Computing – LGK - Luxembourg Talent Exhibition 2025
 
